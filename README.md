@@ -1,2 +1,2 @@
 # qiqiaoban
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+![image](https://github.com/pumpkin12135/qiqiaoban/blob/main/hello.png)
